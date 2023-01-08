@@ -3,11 +3,4 @@ hello world is awesome!!!
 hello world is nice!!!
 
 
-hello world is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-yanagiyay
-
-umi
-
-yanagitable
-
+hello world is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
