@@ -8,3 +8,6 @@ hello world is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 yanagiyay
 
 umi
+
+yanagitable
+
